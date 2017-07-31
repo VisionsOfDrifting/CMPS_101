@@ -1,0 +1,38 @@
+#Nicholas Pappas
+#nhpappas@ucsc.edu
+#CMPS 101 w/ Tantalo
+#Assignment: pa5
+#11/29/16
+#
+# This Graph.c is essentially the Graph.c in pa4, just modified slightly.
+# The comments may have been edited, I did not change any of the common methods.
+#
+# Supprisingly I actually finished and debugged the whole program before the hard
+# deadline this time. I did need the one day extension, I got help in the lab that
+# Monday the 28th. I was able to figure out most of the errors without any help.
+# Again, many of my errors with this project stemmed from unfound/ unsolved problems
+# in my List ADT. It was a little tricky at first figuring out how to implemement DFS()
+# especially making the stack work properly and figuring out how to pass time to Vist().
+# The memory leaks I dealt with really made me question how I was indexing my List. I
+# actually re-read the pa2 project description to double check I had everything correct.
+#
+# This is kind of a story more than anything...
+# My pa4 wasn't working properly when I turned it in. So I went to lab
+# the day after it was due and was able to work out the memory leak in the Graph. The
+# guy gave me some solid programming advice. He told me that if I stared at a computer
+# for too long trying to find a bug in the code that after 2-3 hours you can't see the
+# bug anymore; you have to take breaks and come back to problems you are unable to solve.
+# That really helped reduce my stress while debugging and I think that advice was worth
+# getting a 75/100 on pa4. I'm glad that I've made mistakes this quarter. I've really
+# learned a lot from them. It has given me all the more reason to try harder and rise
+# to the challenges I face.
+#
+#Submitted Files:
+#README
+#Makefile
+#List.h
+#List.c
+#Graph.h
+#Graph.c
+#GraphTest.c
+#FindComponents.c

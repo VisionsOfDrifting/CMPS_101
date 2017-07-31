@@ -1,0 +1,16 @@
+#Nicholas Pappas
+#nhpappas
+#CMPS 101
+#10/06/16
+#pa1
+#
+# If you use the Makefile and try to run Lex 		Ex: Lex in1 out1
+# The timeshare terminal crashes on me. I'm not sure what in the code is causing that.
+# If you change the Makefile and run it on ListClient it gives the specified output.
+#
+#Submitted Files:
+#README
+#Makefile
+#List.java
+#ListClient.java
+#Lex.java

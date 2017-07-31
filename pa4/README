@@ -1,0 +1,39 @@
+#Nicholas Pappas
+#nhpappas@ucsc.edu
+#CMPS 101 w/ Tantalo
+#Assignment: pa1
+#11/14/16
+#
+#   I'm experiencing memory issues with the list ADT.
+# I'm sure these are issues left over from pa2,
+# I've tried to my best ability to find the error, but
+# nothing I do seems to work. With the extra day on the
+# assignment I collaborated with peers and went to the
+# lab. Neither my peers nor the lab assistant could help
+# me with the issue. I mannaged to issolate the error as
+# an issue with my freeList() calling deleteFront(). I 
+# rewrote the method a couple of different ways, first
+# using my pa3 version and translating it in to C.
+# After that didn't seem to work the lab assistant tried
+# to help correct the method I was using originally, but
+# we still could not fix the memory leaks.
+#
+# I am giving up trying to solve the memory leaks in my
+# list because I have made little if any progress in 36 
+# hours even with help and I do not think that it is
+# worth anymore time. I will take the grade that I get.
+#
+# I'm submitting this acknowledging that it doesn't work,
+# but this is all of the code that I wrote. And I believe
+# that the methods I have written for the current 
+# assignment are sound.
+#
+#Submitted Files:
+#README
+#Makefile
+#List.h
+#List.c
+#Graph.h
+#Graph.c
+#GraphTest.c
+#FindPath.c
